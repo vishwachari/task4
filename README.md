@@ -1,27 +1,19 @@
-# task4
-Task 4: SQL for Data Analysis
+# Task 4 - Data Analyst
 
-## Objective
-Use SQL to extract insights and analyze an ecommerce database.
+## Overview
+This task demonstrates SQL data analysis on a products database
 
 ## Tools Used
-- SQLite
-- DB Browser for SQLite
+- MySQL Workbench, MySQL Server
 
-## Concepts Applied
-- SELECT, WHERE, ORDER BY
-- JOINS (INNER, LEFT)
-- GROUP BY with aggregate functions
-- Subqueries
-- Views
-- Indexes
+## Queries
+- SELECT, WHERE, GROUP BY
+- Joins: INNER JOIN, LEFT JOIN
+- Subqueries and Aggregate Functions
+- Created Views
 
-## Outputs
-Screenshots of SQL query results are included in the repository.
+## Output
+Screenshots are attached in the repository
 
-## Dataset
-Ecommerce SQL dataset (sample data of orders, customers, products, etc.)
-
----
-
-✅ Task Completed as part of Data Analyst Internship
+## Author
+Syed Ahmed Ali
